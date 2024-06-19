@@ -1,0 +1,15 @@
+h1{
+    position: fixed;
+    bottom: 400px;
+}
+
+.menu{
+    position: fixed;
+    background-color: burlywood;
+   
+}
+
+h2{
+    position: sticky;
+    top: 10px;
+}
